@@ -3,3 +3,14 @@
 ################################################################################
 
 /EchoBot
+/LCNUG_0217/ReportBot
+/LCNUG_0217/.vs
+/LCNUG_0217/BotBuilderLocation/bin
+/LCNUG_0217/BotBuilderLocation/obj
+/LCNUG_0217/TacoBot/bin
+/LCNUG_0217/TacoBot/Content
+/LCNUG_0217/TacoBot/obj/Debug
+/LCNUG_0217/TacoBot/Scripts
+/LCNUG_0217/TacoBot/Web.Release.config
+/LCNUG_0217/TacoBot/Web.Debug.config
+/LCNUG_0217/TacoBot/TacoBot.csproj.user

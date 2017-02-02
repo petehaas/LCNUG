@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Microsoft.Bot.Builder.Location</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>https://github.com/Microsoft/BotBuilder-Location/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Microsoft/BotBuilder-Location</projectUrl>
+    <iconUrl>http://docs.botframework.com/images/bot_icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An open-source location picker control for Microsoft Bot Framework powered by Bing's Maps REST services. This control makes the process of collecting and validating the user's desired location in a conversation easy and reliable.</description>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+</package>
