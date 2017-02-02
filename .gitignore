@@ -14,3 +14,10 @@
 /LCNUG_0217/TacoBot/Web.Release.config
 /LCNUG_0217/TacoBot/Web.Debug.config
 /LCNUG_0217/TacoBot/TacoBot.csproj.user
+/LCNUG_0217/EchoBot/obj
+/LCNUG_0217/EchoBot/bin
+/LCNUG_0217/EchoBot/Properties/PublishProfiles
+/LCNUG_0217/EchoBot/EchoBot.csproj.user
+/LCNUG_0217/EchoBot/Web.Release.config
+/LCNUG_0217/EchoBot/Web.Debug.config
+/LCNUG_0217/packages
